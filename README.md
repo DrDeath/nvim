@@ -14,9 +14,8 @@ _If you clone the repo into your machine and use the config by copying .config/n
 
 ### Install this nvim config:
 ```bash
-cd ~
 mkdir -p ~/.config
-git clone https://github.com/DrDeath/nvim
+git clone https://github.com/DrDeath/nvim ~/.config/nvim
 ```
 <br>
 <br>
